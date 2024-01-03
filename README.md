@@ -1,6 +1,6 @@
 # Nestle-Product-Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
+![Data Analyst](https://github.com/Tomidapo/Nestle-Product-Analysis/blob/main/Nestle.jpg)
 
 ## Introduction
 In an ever-evolving global market, strategic decision-making is crucial for companies seeking sustainable growth and market leadership. As the Growth and Strategy Department of Nestlé, our commitment to providing the best food for every moment in life necessitates a thorough understanding of our current product landscape. In this context, I, as a Data Analyst, have been tasked with developing a comprehensive product comparison dashboard. This dashboard aims to illuminate the performance of our existing products, empowering Nestlé's leadership with actionable insights to inform expansion plans.
@@ -20,7 +20,7 @@ The development of the product comparison dashboard for Nestlé's Growth and Str
 - Business Intelligence
 - Dashboard Development
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+![Data Analyst](https://github.com/Tomidapo/Nestle-Product-Analysis/blob/main/nestle-usa-family.jpg)
 
 ## Modelling
 
@@ -44,7 +44,7 @@ Product Performance Index
 
 ## Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+![Data Analyst](https://github.com/Tomidapo/Nestle-Product-Analysis/blob/main/Nestle%20Product%20Analytics.jpg)
 
 in conducting an analysis for Nestlé's Growth and Strategy Department, the focus is on extracting meaningful insights from the collected data to inform decision-making. Below are analyses corresponding to the key areas of interest mentioned earlier:
 
@@ -56,7 +56,7 @@ Consider benchmarking Nestlé's performance against key competitors to identify 
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+![Data Analyst](https://github.com/Tomidapo/Nestle-Product-Analysis/blob/main/Nestle%20Product%20Analytics%202.jpg)
 
 
 ## Recommendations for Business Growth:
